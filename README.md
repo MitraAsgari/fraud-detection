@@ -41,5 +41,5 @@ MIT
 
 ## Link to Project Code
   ```bash
-https://github.com/MitraAsgari/fraud-detection.git
+https://github.com/MitraAsgari/fraud-detection
    
